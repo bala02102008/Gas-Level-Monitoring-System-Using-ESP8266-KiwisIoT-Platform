@@ -197,21 +197,7 @@ void loop() {
   delay(100);
 }
 
-## 📁 Project Structure
 
-```text
-Gas-Level-Monitoring/
-│
-├── README.md
-├── .gitignore
-├── code/
-│   └── esp8266-gas-kiwisiot.ino
-│
-└── images/
-    ├── circuit.png
-    ├── hardware-setup.jpg
-    └── dashboard-output.png
-```
 
 ## 🎯 Applications
 
